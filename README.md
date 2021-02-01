@@ -1,1 +1,3 @@
-# lesson_1
+# lesson_1 commands
+## Autors
+Maksims Visockis
