@@ -4,6 +4,8 @@ Maksims Visockis
 
 ## Komandas
 '''
+
+
 git add .
 
 
@@ -14,6 +16,7 @@ git push origin main
 
 
 git status
+
 
 git config user.name "Maksims Visockis"
 
